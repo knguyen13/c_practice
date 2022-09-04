@@ -3,7 +3,7 @@
  * 09/03/2022
  *
  * C Programming: A Modern Approach - K.N. King
- * Chapter 3 Projects 
+ * Chapter 4 Projects 
  */
  
 /* Q: Ch. 4 Pr. 6
